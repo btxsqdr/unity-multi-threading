@@ -32,3 +32,5 @@ example 2:
 - check code for details
 
 copyright: well, i don't care. do whatever you as long it helps you and others. nothing special about this code.
+
+for questions: rafael@btxsqdr.com and http://twitter.com/btxsqdr
