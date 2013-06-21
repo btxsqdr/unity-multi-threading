@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ThreadProcessor.cs">
+    <Files>
+      <File FileName="Assets/ThreadProcessor.cs" Line="15" Column="1" />
+      <File FileName="Assets/Grandma.cs" Line="6" Column="18" />
+      <File FileName="Assets/Example1Manager.cs" Line="15" Column="84" />
+      <File FileName="Assets/Game.cs" Line="12" Column="2" />
+      <File FileName="Assets/Example2Manager.cs" Line="12" Column="83" />
+      <File FileName="Assets/Example1Processor.cs" Line="23" Column="55" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
