@@ -1,7 +1,7 @@
 unity multi threading
 =====================
 
-unity3d multi threading helper class with two examples.
+unity3d multi threading helper class with two examples, for indie devs. bring good to the world etc.!
 
 we have an array of 10 grandmas, with an age of 60, 62, 64, 66, 68, 70, 72, 74, 76, 78. we like to increment the age of every grandma by 1. because we're in a hurry, we use multi-threading and process those 10 grandma items with more cores. 
 
@@ -31,3 +31,4 @@ example 2:
 - short, but advaned example
 - check code for details
 
+copyright: well, i don't care. do whatever you as long it helps you and others. nothing special about this code.
